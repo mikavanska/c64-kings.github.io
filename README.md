@@ -4,6 +4,7 @@
 
 # Clash Royale
 
+[Guild Information](https://statsroyale.com/clan/C8V8LV)
 
 # Rush Wars
 
