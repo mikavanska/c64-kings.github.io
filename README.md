@@ -4,6 +4,7 @@
 [Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
 
 # Clash Royale
+![Clash Royale Logo](Clash_Royale_game_logo.png)
 
 [Guild Information](https://statsroyale.com/clan/C8V8LV)
 
