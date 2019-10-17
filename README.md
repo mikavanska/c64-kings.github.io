@@ -15,7 +15,7 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >
 
 >## Brawl Stars
->
+>![Brawl Stars Logo](220px-Brawl_Stars_logo.png)
 
 >## Boom Beach
 >![Boom Beach Logo](Boom_Beach_logo.png)
