@@ -4,12 +4,12 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >## Clash of Clans
 >![Clash of Clans Logo](Clash_of_Clans_Logo.png)
 >
->[Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
+>[C64-Kings Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
 
 >## Clash Royale
 >![Clash Royale Logo](Clash_Royale_game_logo.png)
 >
->[Guild Information](https://statsroyale.com/clan/C8V8LV)
+>[C64-Kings Guild Information](https://statsroyale.com/clan/C8V8LV)
 
 >## Rush Wars
 >![Rush Wars Logo](oc0AR39.png)
