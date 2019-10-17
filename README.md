@@ -1,5 +1,6 @@
 # Clash of Clans
-![Clash of Clans Logo](https://en.m.wikipedia.org/wiki/File:Clash_of_Clans_Logo.png)
+![Clash of Clans Logo](Clash_of_Clans_Logo.png)
+
 [Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
 
 # Clash Royale
