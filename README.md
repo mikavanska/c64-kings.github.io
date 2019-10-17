@@ -12,7 +12,7 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >[Guild Information](https://statsroyale.com/clan/C8V8LV)
 
 >## Rush Wars
->
+>![Rush Wars Logo](oc0AR39.png)
 
 >## Brawl Stars
 >![Brawl Stars Logo](220px-Brawl_Stars_logo.png)
