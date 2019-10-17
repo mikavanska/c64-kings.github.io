@@ -15,7 +15,7 @@
 
 
 # Boom Beach
-
+![Boom Beach Logo](Boom_Beach_logo.png)
 
 # Empires and Puzzles
 
