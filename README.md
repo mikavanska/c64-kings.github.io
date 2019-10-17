@@ -7,7 +7,7 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >[C64-Kings Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
 
 >## Clash Royale
->![Clash Royale Logo](Clash_Royale_game_logo.png)
+><img src="Clash_Royale_game_logo.png" alt="Clash Royale Logo" width="100"/>
 >
 >[C64-Kings Guild Information](https://statsroyale.com/clan/C8V8LV)
 
@@ -18,10 +18,11 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 ><img src="220px-Brawl_Stars_logo.png" alt="Brawl Stars Logo" width="100"/>
 
 >## Boom Beach
->![Boom Beach Logo](Boom_Beach_logo.png)
+><img src="Boom_Beach_logo.png" alt="Boom Beach Logo" width="100"/>
 
 >## Empires and Puzzles
->![Empires and Puzzles Logo](3897648_Empires_&_Puzzles_Logos.jpg)
+><img src="3897648_Empires_&_Puzzles_Logos.jpg" alt="Empires and Puzzles Logo" width="100"/>
 
 >## AFK Arena
->![AFK Arena Logo](1_bfbzjuls4fyfjtshe6qfoa.png)
+><img src="1_bfbzjuls4fyfjtshe6qfoa.png" alt="AFK Arena Logo" width="100"/>
+
