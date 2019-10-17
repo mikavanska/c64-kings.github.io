@@ -24,4 +24,4 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >![Empires and Puzzles Logo](3897648_Empires_&_Puzzles_Logos.jpg)
 
 >## AFK Arena
->
+>![AFK Arena Logo](1_bfbzjuls4fyfjtshe6qfoa.png)
