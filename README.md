@@ -12,10 +12,10 @@ C64-Kings has guilds for multiple games. You can find all avilable games below.
 >[C64-Kings Guild Information](https://statsroyale.com/clan/C8V8LV)
 
 >## Rush Wars
->![Rush Wars Logo](oc0AR39.png)
+><img src="oc0AR39.png" alt="Rush Wars Logo" width="100"/>
 
 >## Brawl Stars
->![Brawl Stars Logo](220px-Brawl_Stars_logo.png)
+><img src="220px-Brawl_Stars_logo.png" alt="Brawl Stars Logo" width="100"/>
 
 >## Boom Beach
 >![Boom Beach Logo](Boom_Beach_logo.png)
