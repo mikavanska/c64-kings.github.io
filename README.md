@@ -2,7 +2,7 @@
 C64-Kings has guilds for multiple games. You can find all avilable games below.
 
 >## Clash of Clans
->![Clash of Clans Logo](Clash_of_Clans_Logo.png)
+><img src="Clash_of_Clans_Logo.png" alt="Clash of Clans Logo" width="100"/>
 >
 >[C64-Kings Guild information](https://clashofclans.com/clans/search/#clanTag=YPY8PGU)
 
